@@ -1,0 +1,29 @@
+button {
+    margin: 20px 50px;
+    padding: 10px;
+    width: 13%;
+    background-color: lightblue;
+}
+
+.triangle{
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid lightblue;
+    position: absolute;
+    margin-left: 48%;
+    top: -10px;
+}
+
+.popupContent {
+    border: 2px solid lightblue;
+    text-align: left;
+    margin-top: 15px;
+    font-size: 14px;
+    position: relative;
+    width: 20%;
+}
+
+.popupHeader {
+    margin: 0;
+    background-color: lightblue;
+}
